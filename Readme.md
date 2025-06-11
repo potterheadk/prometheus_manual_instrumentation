@@ -129,7 +129,3 @@ The project consists of the following components:
 - **Container Healthchecks:** Define healthchecks for the Flask application in the `docker-compose.yml` file to ensure that it is running correctly.
 - **Grafana Dashboards:** Create pre-built Grafana dashboards to visualize the metrics exposed by the application. This makes it easier to monitor the application's performance and identify potential issues.
 - **Production Deployment:** Use a production-ready WSGI server (e.g., Gunicorn, uWSGI) to deploy the Flask application.
-
-## License
-
-[Specify the license for your project, e.g., MIT License]
